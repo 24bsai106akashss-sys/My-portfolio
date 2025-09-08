@@ -1,61 +1,61 @@
 # My-portfolio
 
-Slide 1: Project Statement
+## Project Statement
 
 To build a personal portfolio website that showcases my skills, projects, and contact information using HTML and CSS.
 
-📌 Slide 2: Project Overview
+## Project Overview
 
 A clean and modern single-page portfolio website developed using HTML and CSS. It highlights my work in AI & ML, includes contact info, and presents projects with a responsive layout.
 
-📌 Slide 3: End Users
+  End Users
+  
+  Recruiters and Companies
+  
+  College Faculty/Examiners
+  
+  Friends and Developers
+  
+  General Audience
 
-Recruiters and Companies
+## Tools and Technologies
 
-College Faculty/Examiners
+  HTML5
+  
+  CSS3
+  
+  CodePen (Online IDE)
+  
+  Web Browser (for testing)
+  
+  Portfolio Design and Layout
+  
+  Responsive and Clean UI
 
-Friends and Developers
+## Sections:
 
-General Audience
+  Hello + Short Intro
+  
+  About Me
+  
+  Projects
+  
+  Contact Me
+  
+  Footer
+  
+  Features and Functionality
+  
+  Simple scroll-based navigation
+  
+  Profile image
+  
+  Button to view projects
+  
+  Stylish project cards
+  
+  Contact information with send button
 
-📌 Slide 4: Tools and Technologies
-
-HTML5
-
-CSS3
-
-CodePen (Online IDE)
-
-Web Browser (for testing)
-
-📌 Slide 5: Portfolio Design and Layout
-
-Responsive and Clean UI
-
-Sections:
-
-Hello + Short Intro
-
-About Me
-
-Projects
-
-Contact Me
-
-Footer
-
-📌 Slide 6: Features and Functionality
-
-Simple scroll-based navigation
-
-Profile image
-
-Button to view projects
-
-Stylish project cards
-
-Contact information with send button
-
-📌 Slide 7: Conclusion
+## Conclusion
 
 This portfolio is a simple yet effective way to showcase my identity as a student in AI and ML, along with my projects and contact details.
